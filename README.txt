@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Furbanairship%2Fpiston.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Furbanairship%2Fpiston?ref=badge_shield)
+
 Piston is a utility that eases vendor branch management.
 This is similar to <tt>svn:externals</tt>, except you have a local copy of
 the files, which you can modify at will.  As long as the changes are
@@ -136,3 +138,7 @@ repository than the one we checked out from originally.
 * <tt>piston:locked</tt>: The revision at which this folder is locked.  If
   this property is set and non-blank, Piston will skip the folder with
   an appropriate message.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Furbanairship%2Fpiston.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Furbanairship%2Fpiston?ref=badge_large)
